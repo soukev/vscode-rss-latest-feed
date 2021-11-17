@@ -1,6 +1,7 @@
 {
   "name": "rss-latest-feed",
   "displayName": "RSS Latest Feed",
+  "publisher": "soukev",
   "description": "",
   "version": "0.0.1",
   "engines": {
