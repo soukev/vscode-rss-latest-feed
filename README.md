@@ -1,7 +1,5 @@
 # rss-latest-feed README
 
-## Features
-
 Show RSS feed and open articles in web browser from command palette.
 
 ## Extension Settings
